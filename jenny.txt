@@ -1,3 +1,4 @@
 Name:  Jenny
+Nick:  J
 Email: jenny@bootcamp.com
 Phone: +23 45 345 789
